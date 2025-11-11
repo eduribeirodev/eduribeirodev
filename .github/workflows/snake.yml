@@ -18,7 +18,7 @@ jobs:
         with:
           # **************************************************
           # Substitua 'SEU_UTILIZADOR' pelo seu nome de utilizador do GitHub!
-          github_user_name: SEU_UTILIZADOR 
+          github_user_name: eduribeirodev
           # **************************************************
           
           # Especifica o nome do ficheiro de saída
