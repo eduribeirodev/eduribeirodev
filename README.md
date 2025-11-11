@@ -35,5 +35,8 @@
 ### 📊 Estatísticas do GitHub
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduribeirodev&layout=compact&theme=radical)
 
-![snake gif](https://raw.githubusercontent.com/eduardoribeirodev/eduardoribeirodev/output/github-contribution-grid-snake.svg)
+<div align="center">
+  <img alt="github-snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</div>
+
 
