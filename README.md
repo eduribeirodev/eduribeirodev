@@ -34,6 +34,6 @@
 
 ### 📊 Estatísticas do GitHub
 <div align="center">
-  ![Snake animation](https://github.com/eduribeirodev/github-contribution-grid-snake.svg)
+  ![GitHub Snake](https://raw.githubusercontent.com/eduribeirodev/eduribeirodev/output/github-contribution-grid-snake.svg)
 </div>
 
