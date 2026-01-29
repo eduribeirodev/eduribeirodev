@@ -34,7 +34,6 @@
 
 ### 📊 Estatísticas do GitHub
 <div align="center">
-  <img alt="github-snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  ![Snake animation](https://github.com/eduribeiroalves/github-contribution-grid-snake.svg)
 </div>
-
 
